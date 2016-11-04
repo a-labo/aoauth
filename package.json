@@ -1,6 +1,6 @@
 {
   "name": "aoauth",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "OAuth server for akoa",
   "main": "lib",
   "scripts": {
